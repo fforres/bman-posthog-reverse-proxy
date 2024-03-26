@@ -1,0 +1,3 @@
+## Deploy:
+
+`npx wrangler deploy`
